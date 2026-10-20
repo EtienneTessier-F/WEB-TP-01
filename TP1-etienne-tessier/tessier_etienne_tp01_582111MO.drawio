@@ -1,0 +1,155 @@
+<mxfile host="65bd71144e">
+    <diagram id="NARejRg1YNLbC7Fg_sVL" name="Page-1">
+        <mxGraphModel dx="1221" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#121212)" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--1" edge="1" parent="1" source="DLwB6ZPBjGfOhc-bZ8L--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DLwB6ZPBjGfOhc-bZ8L--11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;La clairière du Destrier&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot;&gt;Vous marchez jusqu&#39;à une clairière, au centre de laquelle se dresse un autel couvert de runes lumineuses. Un magnifique cheval au pelage argenté y est enchaîné par des liens magiques.&lt;/p&gt;" vertex="1">
+                    <mxGeometry height="100" width="280" x="680" y="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--3" edge="1" parent="1" source="DLwB6ZPBjGfOhc-bZ8L--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="DLwB6ZPBjGfOhc-bZ8L--7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--4" edge="1" parent="1" source="DLwB6ZPBjGfOhc-bZ8L--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="DLwB6ZPBjGfOhc-bZ8L--9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot;&gt;L&#39;autel runique&lt;/p&gt;&lt;p class=&quot;p1&quot;&gt;De près, les gravures crépitent et dégagent une chaleur intense. Le cheval vous observe intensément, attendant votre décision.&lt;/p&gt;" vertex="1">
+                    <mxGeometry height="100" width="280" x="680" y="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--6" edge="1" parent="1" source="DLwB6ZPBjGfOhc-bZ8L--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DLwB6ZPBjGfOhc-bZ8L--14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Inspecter les runes" vertex="1">
+                    <mxGeometry height="80" width="80" x="530" y="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--8" edge="1" parent="1" source="DLwB6ZPBjGfOhc-bZ8L--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DLwB6ZPBjGfOhc-bZ8L--21">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--9" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Trancher les liens" vertex="1">
+                    <mxGeometry height="80" width="80" x="1075" y="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--10" edge="1" parent="1" source="DLwB6ZPBjGfOhc-bZ8L--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DLwB6ZPBjGfOhc-bZ8L--5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--11" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Approcher de l&#39;autel" vertex="1">
+                    <mxGeometry height="80" width="80" x="780" y="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--12" edge="1" parent="1" source="DLwB6ZPBjGfOhc-bZ8L--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DLwB6ZPBjGfOhc-bZ8L--16">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="570" y="800"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--13" edge="1" parent="1" source="DLwB6ZPBjGfOhc-bZ8L--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="DLwB6ZPBjGfOhc-bZ8L--18">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="570" y="800"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot;&gt;Le déchiffrage des runes&lt;/p&gt;&lt;p class=&quot;p1&quot;&gt;En vous penchant sur les symboles, vous réalisez que la moindre erreur de lecture déclanchera un sortilège mortel. La magie commence a faire vibrer l&#39;air autour de vous&lt;/p&gt;" vertex="1">
+                    <mxGeometry height="130" width="230" x="455" y="610" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--15" edge="1" parent="1" source="DLwB6ZPBjGfOhc-bZ8L--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DLwB6ZPBjGfOhc-bZ8L--27">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--16" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Reculer" vertex="1">
+                    <mxGeometry height="80" width="80" x="400" y="767" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--17" edge="1" parent="1" source="DLwB6ZPBjGfOhc-bZ8L--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DLwB6ZPBjGfOhc-bZ8L--35">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--18" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Prononcer l&#39;incantation" vertex="1">
+                    <mxGeometry height="80" width="80" x="655" y="767" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--19" edge="1" parent="1" source="DLwB6ZPBjGfOhc-bZ8L--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DLwB6ZPBjGfOhc-bZ8L--23">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1115" y="800"/>
+                        </Array>
+                        <mxPoint x="950" y="730" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--20" edge="1" parent="1" source="DLwB6ZPBjGfOhc-bZ8L--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DLwB6ZPBjGfOhc-bZ8L--25">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1115" y="800"/>
+                        </Array>
+                        <mxPoint x="1160" y="750" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot;&gt;La délivrance&lt;/p&gt;&lt;p class=&quot;p1&quot;&gt;D&#39;un coup d&#39;épée précis, vous brisez les chaînes magiques. Le destrier s&#39;incline en signe de gratitude et vous invite a grimper sur son dos avant que la forêt ne s&#39;assombrisse&lt;/p&gt;" vertex="1">
+                    <mxGeometry height="100" width="230" x="1000" y="610" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--22" edge="1" parent="1" source="DLwB6ZPBjGfOhc-bZ8L--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DLwB6ZPBjGfOhc-bZ8L--31">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="36PYHLDrMLKJhmTPEySE-1" edge="1" parent="1" source="DLwB6ZPBjGfOhc-bZ8L--23" style="edgeStyle=none;html=1;" target="DLwB6ZPBjGfOhc-bZ8L--31" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--23" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Chevaucher vers les falaises" vertex="1">
+                    <mxGeometry height="80" width="80" x="940" y="767" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--24" edge="1" parent="1" source="DLwB6ZPBjGfOhc-bZ8L--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DLwB6ZPBjGfOhc-bZ8L--33">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--25" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Galoper vers le chateau" vertex="1">
+                    <mxGeometry height="80" width="80" x="1185" y="767" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--26" edge="1" parent="1" source="DLwB6ZPBjGfOhc-bZ8L--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DLwB6ZPBjGfOhc-bZ8L--29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot;&gt;La retraite prudente&lt;br&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot;&gt;Sentant le danger imminent, vous faites vivement quelques pas en arrière pour vous éloigner du souffle arcanique. Les runes s&#39;apaisent doucement et l&#39;air retrouve son calme autour de l&#39;autel&lt;/p&gt;" vertex="1">
+                    <mxGeometry height="130" width="220" x="330" y="880" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--28" edge="1" parent="1" source="DLwB6ZPBjGfOhc-bZ8L--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DLwB6ZPBjGfOhc-bZ8L--5">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="260" y="1080"/>
+                            <mxPoint x="260" y="400"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--29" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Revenir a l&#39;autel" vertex="1">
+                    <mxGeometry height="80" width="80" x="400" y="1050" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--30" edge="1" parent="1" source="DLwB6ZPBjGfOhc-bZ8L--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DLwB6ZPBjGfOhc-bZ8L--37">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;L&#39;Horizon sans fin&lt;br&gt;&lt;div&gt;Guidé par votre fidèle destrier, vous atteignez les falaises surplombant une mer inconnue oû navigue un navire au voiles dorées. Une nouvelle aventure se dessine au loin.&lt;/div&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="130" width="240" x="860" y="880" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--32" edge="1" parent="1" source="DLwB6ZPBjGfOhc-bZ8L--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DLwB6ZPBjGfOhc-bZ8L--39">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot;&gt;Les portes de l&#39;oubli&lt;/p&gt;&lt;p class=&quot;p1&quot;&gt;À peine franchi le seuil du château, la herse en fer retombe lourdement derrière vous. Des ombres squelettiques émergent des murs et vous encerclent sans moindre échapatoire.&lt;/p&gt;" vertex="1">
+                    <mxGeometry height="130" width="230" x="1110" y="880" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--34" edge="1" parent="1" source="DLwB6ZPBjGfOhc-bZ8L--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DLwB6ZPBjGfOhc-bZ8L--38">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot;&gt;Le Surchargement magique&lt;/p&gt;&lt;p class=&quot;p1&quot;&gt;Vous prononcez la mauvaise formule et une onde de choc arcanique explose de l&#39;autel. La magie vous foudroie sur le coup, laissant le destrier a son triste sort&lt;/p&gt;" vertex="1">
+                    <mxGeometry height="130" width="230" x="580" y="880" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--36" edge="1" parent="1" source="DLwB6ZPBjGfOhc-bZ8L--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="980" y="1170" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--37" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Embarquer vers l&#39;inconnu" vertex="1">
+                    <mxGeometry height="80" width="80" x="940" y="1050" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--38" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Recommencer" vertex="1">
+                    <mxGeometry height="80" width="80" x="655" y="1050" as="geometry"/>
+                </mxCell>
+                <mxCell id="DLwB6ZPBjGfOhc-bZ8L--39" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Recommencer" vertex="1">
+                    <mxGeometry height="80" width="80" x="1185" y="1050" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
